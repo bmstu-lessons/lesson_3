@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-71 76.6 647.5 579" style="enable-background:new -71 76.6 647.5 579;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{fill:#231F20;}
+	.st2{font-family:'CourierNewPSMT';}
+	.st3{font-size:12px;}
+	.st4{fill:#E6E7E8;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st6{fill:#231F20;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#BBBDBF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st8{fill:#B2DDC7;stroke:#231F20;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<rect x="-26" y="125.5" class="st0" width="314" height="27"/>
+<text transform="matrix(1 0 0 1 77.006 112.0692)" class="st1 st2 st3">Virtual Address</text>
+<rect x="412.4" y="125.1" class="st4" width="160.3" height="490.2"/>
+<rect x="412.4" y="304.4" class="st5" width="160.3" height="173.7"/>
+<polygon class="st6" points="412.3,478.1 405.6,475.5 405.6,480.7 "/>
+<polygon class="st6" points="412.3,403.1 405.6,400.5 405.6,405.7 "/>
+<rect x="412.4" y="388.5" class="st0" width="160.3" height="27"/>
+<text transform="matrix(1 0 0 1 434.9065 405.0695)" class="st1 st2 st3">Physical Address</text>
+<text transform="matrix(1 0 0 1 434.9065 95.0694)"><tspan x="0" y="0" class="st1 st2 st3">Physical Address</tspan><tspan x="39.6" y="14.4" class="st1 st2 st3">Space</tspan></text>
+<rect x="-8.6" y="587.5" class="st0" width="193.2" height="27"/>
+<text transform="matrix(1 0 0 1 4.3488 604.0697)" class="st1 st2 st3">Page Table Base Address</text>
+<line class="st7" x1="34" y1="125.5" x2="34" y2="152.6"/>
+<line class="st7" x1="94" y1="125.5" x2="94" y2="152.6"/>
+<line class="st7" x1="154" y1="125.5" x2="154" y2="152.6"/>
+<rect x="-46" y="240.8" class="st0" width="90.9" height="189.9"/>
+<line class="st0" x1="-46" y1="331.2" x2="45" y2="331.2"/>
+<line class="st0" x1="-46" y1="355.7" x2="45" y2="355.7"/>
+<line class="st0" x1="269.4" y1="152.6" x2="269.4" y2="207.7"/>
+<line class="st0" x1="269.4" y1="207.7" x2="373.9" y2="207.7"/>
+<line class="st0" x1="373.9" y1="207.7" x2="373.9" y2="403.1"/>
+<line class="st0" x1="373.9" y1="403.1" x2="412.3" y2="403.1"/>
+<line class="st0" x1="343.1" y1="333.2" x2="358.8" y2="333.2"/>
+<line class="st0" x1="358.8" y1="333.2" x2="358.8" y2="478.1"/>
+<line class="st0" x1="358.8" y1="478.1" x2="412.4" y2="478.1"/>
+<rect x="103" y="240.8" class="st0" width="90.9" height="189.9"/>
+<line class="st0" x1="103" y1="351.2" x2="194" y2="351.2"/>
+<line class="st0" x1="103" y1="375.7" x2="194" y2="375.7"/>
+<rect x="252" y="240.8" class="st0" width="90.9" height="189.9"/>
+<line class="st0" x1="252" y1="321.2" x2="343" y2="321.2"/>
+<line class="st0" x1="252" y1="345.7" x2="343" y2="345.7"/>
+<polygon class="st6" points="252,430.7 245.3,428.1 245.3,433.3 "/>
+<line class="st0" x1="213.6" y1="430.7" x2="252" y2="430.7"/>
+<line class="st0" x1="213.6" y1="430.7" x2="213.6" y2="363.7"/>
+<line class="st0" x1="213.6" y1="363.7" x2="194" y2="363.7"/>
+<polygon class="st6" points="103,430.7 96.3,428.1 96.3,433.3 "/>
+<line class="st0" x1="64.6" y1="430.7" x2="103" y2="430.7"/>
+<line class="st0" x1="64.6" y1="430.7" x2="64.6" y2="345.7"/>
+<line class="st0" x1="64.6" y1="345.7" x2="45" y2="345.7"/>
+<line class="st0" x1="63.4" y1="152.6" x2="63.4" y2="207.7"/>
+<line class="st0" x1="63.4" y1="207.7" x2="83.8" y2="207.7"/>
+<line class="st0" x1="83.8" y1="207.7" x2="83.8" y2="362.7"/>
+<line class="st0" x1="83.8" y1="362.7" x2="103" y2="362.7"/>
+<polygon class="st6" points="103,362.7 96.3,360.1 96.3,365.3 "/>
+<line class="st0" x1="232.8" y1="207.7" x2="232.8" y2="333.2"/>
+<line class="st0" x1="232.8" y1="333.2" x2="252" y2="333.2"/>
+<polygon class="st6" points="252,333.2 245.3,331.1 245.3,335.3 "/>
+<line class="st0" x1="123.4" y1="152.6" x2="123.4" y2="207.7"/>
+<line class="st0" x1="123.4" y1="207.7" x2="232.8" y2="207.7"/>
+<line class="st0" x1="3.4" y1="152.6" x2="3.4" y2="207.7"/>
+<line class="st0" x1="-66.2" y1="207.7" x2="3.8" y2="207.7"/>
+<line class="st0" x1="-66.2" y1="207.7" x2="-66.2" y2="342.7"/>
+<line class="st0" x1="-66.2" y1="342.7" x2="-47" y2="342.7"/>
+<polygon class="st6" points="-47,342.7 -53.7,340.1 -53.7,345.3 "/>
+<polygon class="st6" points="-46,430.7 -52.7,428.1 -52.7,433.3 "/>
+<line class="st0" x1="-66.2" y1="430.7" x2="-34.6" y2="430.7"/>
+<line class="st0" x1="-66.2" y1="430.7" x2="-66.2" y2="553.2"/>
+<line class="st0" x1="-66.2" y1="553.2" x2="17.2" y2="553.2"/>
+<line class="st0" x1="17.2" y1="553.2" x2="17.2" y2="587.5"/>
+<g>
+	<rect x="5.5" y="634.5" class="st8" width="23.7" height="12.9"/>
+	<text transform="matrix(1 0 0 1 6.5137 644.1526)" class="st1 st2 st3">CR3</text>
+	<line class="st0" x1="17.3" y1="647.3" x2="17.3" y2="648.7"/>
+	<line class="st0" x1="13.9" y1="647.3" x2="13.9" y2="648.7"/>
+	<line class="st0" x1="20.7" y1="647.3" x2="20.7" y2="648.7"/>
+	<line class="st0" x1="24.1" y1="647.3" x2="24.1" y2="648.7"/>
+	<line class="st0" x1="10.5" y1="647.3" x2="10.5" y2="648.7"/>
+	<line class="st0" x1="17.3" y1="633.1" x2="17.3" y2="634.5"/>
+	<line class="st0" x1="13.9" y1="633.1" x2="13.9" y2="634.5"/>
+	<line class="st0" x1="20.7" y1="633.1" x2="20.7" y2="634.5"/>
+	<line class="st0" x1="24.1" y1="633.1" x2="24.1" y2="634.5"/>
+	<line class="st0" x1="10.5" y1="633.1" x2="10.5" y2="634.5"/>
+</g>
+<polygon class="st6" points="-8.6,600.5 -15.3,597.9 -15.3,603.1 "/>
+<line class="st0" x1="-47" y1="600.6" x2="-8.6" y2="600.6"/>
+<line class="st0" x1="-47" y1="600.6" x2="-47" y2="640.9"/>
+<line class="st0" x1="-47" y1="640.9" x2="5.5" y2="640.9"/>
+</svg>
